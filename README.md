@@ -1,2 +1,2 @@
-# vue_spring_project
-Vue + Spring 프로젝트
+# Vue + Spring 프로젝트
+
