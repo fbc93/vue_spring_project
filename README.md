@@ -1,2 +1,2 @@
 # vue_spring_project
-vue_spring_project Template
+Vue + Spring Project
